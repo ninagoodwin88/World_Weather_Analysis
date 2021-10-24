@@ -1,0 +1,134 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+7,Vaini,TO,68.16,few clouds,-21.2,-175.2,Keleti Beach Resort
+35,Saint-Francois,FR,66.47,clear sky,46.4154,3.9054,Manoir Du Bonheur
+47,Bredasdorp,ZA,69.28,clear sky,-34.5322,20.0403,Bredasdorp Country Manor
+54,East London,ZA,65.34,few clouds,-33.0153,27.9116,Tu Casa
+57,San Cristobal,VE,68.18,overcast clouds,7.7669,-72.225,Posada Villaven C.A.
+63,Puerto Ayora,EC,69.57,overcast clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+93,Geraldton,AU,66.61,overcast clouds,-28.7667,114.6,Broadwater Mariner Resort
+102,Rincon,US,68.86,fog,32.296,-81.2354,Days Inn Rincon
+169,Forio,IT,69.82,overcast clouds,40.7342,13.8646,Hotel Terme Providence
+170,Carnarvon,AU,69.87,overcast clouds,-24.8667,113.6333,Hospitality Carnarvon
+192,Tortoli,IT,66.97,moderate rain,39.9256,9.6572,Hotel La Bitta
+205,Alofi,NU,69.69,broken clouds,-19.0595,-169.9187,Taloa Heights
+212,Sechura,PE,67.21,broken clouds,-5.5569,-80.8222,Hospedaje Costa Bella
+224,Salta,AR,67.57,few clouds,-24.7859,-65.4117,Hotel Alejandro I
+250,Cidreira,BR,65.3,scattered clouds,-30.1811,-50.2056,Hotel Castelo
+271,Springfield,US,69.19,few clouds,37.2153,-93.2982,University Plaza Hotel & Convention Center
+273,Dalby,AU,66.97,clear sky,-27.1833,151.2667,Kobbers Motor Inn Dalby
+302,Maua,BR,69.87,overcast clouds,-23.6678,-46.4614,Hotel Capriccio Mauá
+309,Talara,PE,69.17,overcast clouds,-4.5772,-81.2719,Hostal Oro Negro
+312,Tura,IN,69.22,clear sky,25.5198,90.2201,Hotel RIKMAN Continental
+328,Pine Bluff,US,69.91,few clouds,34.2284,-92.0032,"Holiday Inn Express & Suites Pine Bluff, an IHG Hotel"
+343,Moreira Sales,BR,67.35,overcast clouds,-24.0622,-53.0069,Casa Cristo Rei
+372,Ojinaga,MX,65.57,clear sky,29.5667,-104.4167,Suites Las Palmas
+376,Ramnagar,IN,69.24,broken clouds,29.4,79.1167,Leisure Vacation Myrica Hotel
+388,Gazanjyk,TM,66.83,clear sky,39.2446,55.5154,Railway motel
+422,Havelock,US,67.95,clear sky,34.8791,-76.9013,Sherwood Motel
+423,Kruisfontein,ZA,67.89,broken clouds,-34.0033,24.7314,Oyster Bay House Rental
+452,Richards Bay,ZA,65.21,light rain,-28.783,32.0377,BON Hotel Waterfront Richards Bay
+462,Sayyan,YE,69.85,clear sky,15.1718,44.3244,متنزه و بحيرة سيان
+488,Wadi Musa,JO,69.21,clear sky,30.3222,35.4793,Petra Palace Hotel
+541,Albox,ES,66.67,scattered clouds,37.3886,-2.1495,Steve Conroy Los Olivos
+546,Las Vegas,US,65.43,clear sky,36.175,-115.1372,Plaza Hotel & Casino
+554,Along,IN,68.13,clear sky,28.1667,94.7667,Hotel West
+566,Vaini,TO,68.16,few clouds,-21.2,-175.2,Keleti Beach Resort
+594,Saint-Francois,FR,66.47,clear sky,46.4154,3.9054,Manoir Du Bonheur
+606,Bredasdorp,ZA,69.28,clear sky,-34.5322,20.0403,Bredasdorp Country Manor
+613,East London,ZA,65.34,few clouds,-33.0153,27.9116,Tu Casa
+616,San Cristobal,VE,68.18,overcast clouds,7.7669,-72.225,Posada Villaven C.A.
+622,Puerto Ayora,EC,69.57,overcast clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+652,Geraldton,AU,66.61,overcast clouds,-28.7667,114.6,Broadwater Mariner Resort
+661,Rincon,US,68.86,fog,32.296,-81.2354,Days Inn Rincon
+728,Forio,IT,69.82,overcast clouds,40.7342,13.8646,Hotel Terme Providence
+729,Carnarvon,AU,69.87,overcast clouds,-24.8667,113.6333,Hospitality Carnarvon
+751,Tortoli,IT,66.97,moderate rain,39.9256,9.6572,Hotel La Bitta
+764,Alofi,NU,69.69,broken clouds,-19.0595,-169.9187,Taloa Heights
+771,Sechura,PE,67.21,broken clouds,-5.5569,-80.8222,Hospedaje Costa Bella
+783,Salta,AR,67.57,few clouds,-24.7859,-65.4117,Hotel Alejandro I
+809,Cidreira,BR,65.3,scattered clouds,-30.1811,-50.2056,Hotel Castelo
+830,Springfield,US,69.19,few clouds,37.2153,-93.2982,University Plaza Hotel & Convention Center
+832,Dalby,AU,66.97,clear sky,-27.1833,151.2667,Kobbers Motor Inn Dalby
+861,Maua,BR,69.87,overcast clouds,-23.6678,-46.4614,Hotel Capriccio Mauá
+869,Talara,PE,69.17,overcast clouds,-4.5772,-81.2719,Hostal Oro Negro
+872,Tura,IN,69.22,clear sky,25.5198,90.2201,Hotel RIKMAN Continental
+888,Pine Bluff,US,69.91,mist,34.2284,-92.0032,"Holiday Inn Express & Suites Pine Bluff, an IHG Hotel"
+903,Moreira Sales,BR,67.35,overcast clouds,-24.0622,-53.0069,Casa Cristo Rei
+932,Ojinaga,MX,65.57,clear sky,29.5667,-104.4167,Suites Las Palmas
+936,Ramnagar,IN,69.24,broken clouds,29.4,79.1167,Leisure Vacation Myrica Hotel
+948,Gazanjyk,TM,66.83,clear sky,39.2446,55.5154,Railway motel
+982,Havelock,US,67.95,clear sky,34.8791,-76.9013,Sherwood Motel
+983,Kruisfontein,ZA,67.89,broken clouds,-34.0033,24.7314,Oyster Bay House Rental
+1012,Richards Bay,ZA,65.21,light rain,-28.783,32.0377,BON Hotel Waterfront Richards Bay
+1022,Sayyan,YE,69.85,clear sky,15.1718,44.3244,متنزه و بحيرة سيان
+1048,Wadi Musa,JO,69.21,clear sky,30.3222,35.4793,Petra Palace Hotel
+1101,Albox,ES,66.67,scattered clouds,37.3886,-2.1495,Steve Conroy Los Olivos
+1106,Las Vegas,US,65.43,clear sky,36.175,-115.1372,Plaza Hotel & Casino
+1114,Along,IN,68.13,clear sky,28.1667,94.7667,Hotel West
+1126,Vaini,TO,68.16,few clouds,-21.2,-175.2,Keleti Beach Resort
+1154,Saint-Francois,FR,66.47,clear sky,46.4154,3.9054,Manoir Du Bonheur
+1166,Bredasdorp,ZA,69.28,clear sky,-34.5322,20.0403,Bredasdorp Country Manor
+1173,East London,ZA,65.34,few clouds,-33.0153,27.9116,Tu Casa
+1176,San Cristobal,VE,68.18,overcast clouds,7.7669,-72.225,Posada Villaven C.A.
+1182,Puerto Ayora,EC,69.57,overcast clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1212,Geraldton,AU,66.61,overcast clouds,-28.7667,114.6,Broadwater Mariner Resort
+1221,Rincon,US,68.86,fog,32.296,-81.2354,Days Inn Rincon
+1288,Forio,IT,69.82,overcast clouds,40.7342,13.8646,Hotel Terme Providence
+1289,Carnarvon,AU,69.87,overcast clouds,-24.8667,113.6333,Hospitality Carnarvon
+1311,Tortoli,IT,66.97,moderate rain,39.9256,9.6572,Hotel La Bitta
+1324,Alofi,NU,69.69,broken clouds,-19.0595,-169.9187,Taloa Heights
+1331,Sechura,PE,67.21,broken clouds,-5.5569,-80.8222,Hospedaje Costa Bella
+1343,Salta,AR,67.57,few clouds,-24.7859,-65.4117,Hotel Alejandro I
+1369,Cidreira,BR,65.3,scattered clouds,-30.1811,-50.2056,Hotel Castelo
+1390,Springfield,US,69.19,few clouds,37.2153,-93.2982,University Plaza Hotel & Convention Center
+1392,Dalby,AU,66.97,clear sky,-27.1833,151.2667,Kobbers Motor Inn Dalby
+1421,Maua,BR,69.87,overcast clouds,-23.6678,-46.4614,Hotel Capriccio Mauá
+1429,Talara,PE,69.17,overcast clouds,-4.5772,-81.2719,Hostal Oro Negro
+1432,Tura,IN,69.22,clear sky,25.5198,90.2201,Hotel RIKMAN Continental
+1448,Pine Bluff,US,69.91,mist,34.2284,-92.0032,"Holiday Inn Express & Suites Pine Bluff, an IHG Hotel"
+1463,Moreira Sales,BR,67.35,overcast clouds,-24.0622,-53.0069,Casa Cristo Rei
+1492,Ojinaga,MX,65.57,clear sky,29.5667,-104.4167,Suites Las Palmas
+1495,Ramnagar,IN,69.24,broken clouds,29.4,79.1167,Leisure Vacation Myrica Hotel
+1507,Gazanjyk,TM,66.83,clear sky,39.2446,55.5154,Railway motel
+1541,Havelock,US,67.95,clear sky,34.8791,-76.9013,Sherwood Motel
+1542,Kruisfontein,ZA,67.89,broken clouds,-34.0033,24.7314,Oyster Bay House Rental
+1571,Richards Bay,ZA,65.21,light rain,-28.783,32.0377,BON Hotel Waterfront Richards Bay
+1581,Sayyan,YE,69.85,clear sky,15.1718,44.3244,متنزه و بحيرة سيان
+1607,Wadi Musa,JO,69.21,clear sky,30.3222,35.4793,Petra Palace Hotel
+1660,Albox,ES,66.67,scattered clouds,37.3886,-2.1495,Steve Conroy Los Olivos
+1665,Las Vegas,US,65.43,clear sky,36.175,-115.1372,Plaza Hotel & Casino
+1673,Along,IN,68.13,clear sky,28.1667,94.7667,Hotel West
+1685,Vaini,TO,68.16,few clouds,-21.2,-175.2,Keleti Beach Resort
+1696,Avarua,CK,69.85,few clouds,-21.2078,-159.775,Paradise Inn
+1713,Saint-Francois,FR,66.47,clear sky,46.4154,3.9054,Manoir Du Bonheur
+1725,Bredasdorp,ZA,69.28,clear sky,-34.5322,20.0403,Bredasdorp Country Manor
+1732,East London,ZA,65.34,few clouds,-33.0153,27.9116,Tu Casa
+1735,San Cristobal,VE,68.18,overcast clouds,7.7669,-72.225,Posada Villaven C.A.
+1741,Puerto Ayora,EC,69.57,overcast clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1771,Geraldton,AU,66.61,overcast clouds,-28.7667,114.6,Broadwater Mariner Resort
+1780,Rincon,US,68.86,fog,32.296,-81.2354,Days Inn Rincon
+1847,Forio,IT,69.82,overcast clouds,40.7342,13.8646,Hotel Terme Providence
+1848,Carnarvon,AU,69.87,overcast clouds,-24.8667,113.6333,Hospitality Carnarvon
+1870,Tortoli,IT,66.97,moderate rain,39.9256,9.6572,Hotel La Bitta
+1883,Alofi,NU,69.69,broken clouds,-19.0595,-169.9187,Taloa Heights
+1890,Sechura,PE,67.21,broken clouds,-5.5569,-80.8222,Hospedaje Costa Bella
+1902,Salta,AR,67.57,few clouds,-24.7859,-65.4117,Hotel Alejandro I
+1928,Cidreira,BR,65.3,scattered clouds,-30.1811,-50.2056,Hotel Castelo
+1949,Springfield,US,69.19,few clouds,37.2153,-93.2982,University Plaza Hotel & Convention Center
+1951,Dalby,AU,66.97,clear sky,-27.1833,151.2667,Kobbers Motor Inn Dalby
+1980,Maua,BR,69.87,overcast clouds,-23.6678,-46.4614,Hotel Capriccio Mauá
+1988,Talara,PE,69.17,overcast clouds,-4.5772,-81.2719,Hostal Oro Negro
+1991,Tura,IN,69.22,clear sky,25.5198,90.2201,Hotel RIKMAN Continental
+2007,Pine Bluff,US,69.91,mist,34.2284,-92.0032,"Holiday Inn Express & Suites Pine Bluff, an IHG Hotel"
+2022,Moreira Sales,BR,67.35,overcast clouds,-24.0622,-53.0069,Casa Cristo Rei
+2051,Ojinaga,MX,65.57,clear sky,29.5667,-104.4167,Suites Las Palmas
+2055,Ramnagar,IN,69.24,broken clouds,29.4,79.1167,Leisure Vacation Myrica Hotel
+2067,Gazanjyk,TM,66.83,clear sky,39.2446,55.5154,Railway motel
+2101,Havelock,US,67.95,clear sky,34.8791,-76.9013,Sherwood Motel
+2102,Kruisfontein,ZA,67.89,broken clouds,-34.0033,24.7314,Oyster Bay House Rental
+2131,Richards Bay,ZA,65.21,light rain,-28.783,32.0377,BON Hotel Waterfront Richards Bay
+2141,Sayyan,YE,69.85,clear sky,15.1718,44.3244,متنزه و بحيرة سيان
+2167,Wadi Musa,JO,69.21,clear sky,30.3222,35.4793,Petra Palace Hotel
+2220,Albox,ES,66.67,scattered clouds,37.3886,-2.1495,Steve Conroy Los Olivos
+2225,Las Vegas,US,65.43,clear sky,36.175,-115.1372,Plaza Hotel & Casino
+2233,Along,IN,68.13,clear sky,28.1667,94.7667,Hotel West
